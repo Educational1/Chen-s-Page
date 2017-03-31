@@ -36,5 +36,5 @@ Use Lavarel or Rails? Everything you want.
   OpenCV : Image , Pattern recognition</br>
 
 Share our ierophant
-![Chen's Smile](http://i4.buimg.com/567571/ffff0cab411130a1.jpg)
+> ![Chen's Smile](http://i4.buimg.com/567571/ffff0cab411130a1.jpg)
 
