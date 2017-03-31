@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to Chen's Pages
 
-You can use the [editor on GitHub](https://github.com/MonCoeus/Chen-s-Page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use learn more about this project from this page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+Here some skills or devlope enviroment you need to master or save.
+### GitHub 
+No much to say...
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. All things below and beyond is followed 'Markdown' syntax.
 
-```markdown
-Syntax highlighted code block
+### Linux 
 
-# Header 1
-## Header 2
-### Header 3
+Distribute version like Deep-in,Debian,CentOS or Arch ?
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Atom or Sublime Text 
 
-**Bold** and _Italic_ and `Code` text
+### HTML/CSS &&Javascript
+Master these,you will make a website dish by BootStrap more easier,trust me!
 
-[Link](url) and ![Image](src)
-```
+### PHP Or Ruby
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Use Lavarel or Rails? Everything you want.
 
-### Jekyll Themes
+### Python
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MonCoeus/Chen-s-Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- import these below
 
-### Support or Contact
+> Math : NumPy + SciPy + matplotlib + IPython </br>
+  Machine Learning : SciKits</br>
+  Padas : R substitute</br>
+  ETS : Data visual 3D  </br>
+  OpenCV : Image , Pattern recognition</br>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Share our ierophant
+![Chen's Smile](http://i4.buimg.com/567571/ffff0cab411130a1.jpg)
+
