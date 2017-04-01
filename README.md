@@ -2,28 +2,26 @@
 
 You can use learn more about this project from this page.
 
-
-
 Here some skills or devlope enviroment you need to master or save.
-### Chrom or Chromiu
+### Chrom or Chromium
+> Or firefox
+
 ### GitHub 
 No much to say...
-### Markdown
 
+### Markdown
 > Markdown is a lightweight and easy-to-use syntax for styling your writing. All things below and beyond is followed 'Markdown' syntax.
 
 ### Linux 
-
 > Distribute version like Deep-in,Debian,CentOS or Arch ?
-
 
 ### Atom or Sublime Text 
 > Some extend make your edits faster than ever.
+
 ### HTML/CSS &&Javascript
 > Master these,you will make a website dish by BootStrap more easier,trust me!
 
 ### PHP Or Ruby
-
 > Use Lavarel or Rails? Everything you want.
 
 ### Python
